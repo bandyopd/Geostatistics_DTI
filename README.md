@@ -1,2 +1,2 @@
 # Geostatistics_DTI
-Codes for "Geostatistical Modeling of Positive Definite Matrices and Its Applications to Diffusion Tensor Imaging" Copyright (C) 2018 Zhou Lan (zlan@ncsu.edu) - All Rights Reserved
+Code to implement the modeling from the paper: Lan Z, Reich BJ, Guinness J, Bandyopadhyay D, Ma L and Moeller G. (2022). Geostatistical modeling of positive-definite matrices: An application to diffusion tensor imaging, Biometrics, 78(2), 548-559
